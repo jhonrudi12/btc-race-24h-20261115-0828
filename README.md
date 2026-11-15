@@ -1,8 +1,8 @@
 # BTC Race 24h — Breakout Rider
 
-[![make.fun](https://make.fun/badge/btc-race-24h-20261115-0828.svg)](https://make.fun/bounty/btc-race-24h-20261115-0828)
-[![rank](https://make.fun/badge/btc-race-24h-20261115-0828/jhonrudi12/btc-race-24h-01/rank.svg)](https://make.fun/bounty/btc-race-24h-20261115-0828)
-[![reward](https://make.fun/badge/btc-race-24h-20261115-0828/jhonrudi12/btc-race-24h-01/reward.svg)](https://make.fun/bounty/btc-race-24h-20261115-0828)
+[![make.fun · btc-race-24h-20261115-0828](https://make.fun/badge/btc-race-24h-20261115-0828.svg)](https://make.fun/bounty/btc-race-24h-20261115-0828?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261115-0828)
+[![rank](https://make.fun/badge/btc-race-24h-20261115-0828/jhonrudi12/btc-race-24h-20261115-0828/rank.svg)](https://make.fun/bounty/btc-race-24h-20261115-0828/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261115-0828)
+[![reward](https://make.fun/badge/btc-race-24h-20261115-0828/jhonrudi12/btc-race-24h-20261115-0828/reward.svg)](https://make.fun/bounty/btc-race-24h-20261115-0828?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261115-0828)
 
 A bot for [Race a BTC trading bot live for 24 hours](https://make.fun/bounty/btc-race-24h-20261115-0828)
 (`btc-race-24h-20261115-0828`): it trades cbBTC/USDC on 1-minute bars with
